@@ -1,2 +1,2 @@
-# 3rd Semester DataStructures_Project
+# 3rd Semester DataStructures Project
 BlockChain based Voting System
